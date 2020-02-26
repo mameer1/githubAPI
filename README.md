@@ -2,4 +2,4 @@
 
 # githubAPI
 
-Assignment 4 for SSW 567
+Assignment 5a for SSW 567
